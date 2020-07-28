@@ -1,2 +1,2 @@
 # Stage-2-project
-Website or searching hotel rooms
+Website for searching hotel rooms
